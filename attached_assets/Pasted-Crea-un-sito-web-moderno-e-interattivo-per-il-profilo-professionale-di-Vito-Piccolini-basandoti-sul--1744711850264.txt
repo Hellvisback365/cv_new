@@ -1,0 +1,15 @@
+Crea un sito web moderno e interattivo per il profilo professionale di Vito Piccolini basandoti sul seguente CV:
+
+- Vito Piccolini è un Sviluppatore IA in formazione, specializzato in prototipazione di applicazioni basate su modelli linguistici (LLaMA, Mistral) e soluzioni di raccomandazione conversazionale. Ha lavorato durante un tirocinio presso LACAM-SWAP (Università di Bari) e si è formato in Informatica presso l'Università di Bari Aldo Moro.
+- Ha esperienze in progetti come BeFluent (web app per bambini dislessici) e POSD System (soluzione privacy-oriented conformante al GDPR), e possiede competenze in Python, LangChain, NLP, Node.js, MongoDB, e altre tecnologie moderne.
+- Il sito dovrà riflettere questi aspetti con un design super moderno ed elegante che crei un effetto “wow” al visitatore, integrando:
+   • Una Home con una Hero Section d’impatto, comprensiva di animazioni e transizioni fluide.
+   • Sezioni dedicate a "Chi Sono", Esperienze, Formazione, Progetti, Skills Tecniche, Certificazioni e Contatti.
+   • Layout responsive, animazioni in ingresso, effetti parallax ed eventuali micro-interazioni su pulsanti e link.
+   • Una palette colori contemporanea (es. tonalità scure con accenti vivaci), tipografia moderna (es. Poppins, Roboto o Montserrat) e utilizzo di immagini di sfondo/video dinamici per creare profondità.
+   • Funzionalità extra come scroll-triggered animations, light/dark mode e widget interattivi per mostrare le competenze in modo visuale.
+- Prevedere un’ottimizzazione SEO e accessibilità, con un codice semanticamente corretto e ottimizzato per mobile e desktop.
+
+Fornisci una struttura del progetto con componenti modulari (es. Navbar, Hero, About, Timeline per le Esperienze, Card per Progetti, Footer) e il codice necessario per implementare animazioni e interazioni. Il risultato finale deve emergere come un sito web di alta qualità, con design curato e performance eccellenti.
+
+In sintesi, il prompt deve guidare la creazione di un sito web che non solo presenti il CV di Vito Piccolini, ma che riesca a trasmettere professionalità, innovazione e un’esperienza utente memorabile.
